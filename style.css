@@ -1,0 +1,39 @@
+    body {
+      background-color: #f8f9fa;
+      
+    }
+
+    .form-container {
+      max-width: 400px;
+      margin: auto;
+      padding: 2rem;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      margin-top: 5%;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .error {
+      color: red;
+      font-size: 0.9rem;
+    }
+
+    footer {
+        background-color: #1c1c1c60;
+        font-size: 13px;
+        font-weight: 400;
+        font-family: var(--second-font);
+        color: var(--desc-color);
+        padding: 20px 0px;
+        word-spacing: 2px;
+        margin-top: 90px;
+     }
+ footer a {
+        text-decoration: none;
+        color: var(--desc-color);
+     }
+    
